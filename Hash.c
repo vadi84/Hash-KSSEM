@@ -1,4 +1,4 @@
-//LAB PROGRAM 11. Write a C++ program to store and retrieve student data from file using hashing. Use any collision resolution technique.
+//Write a C++ program to store and retrieve student data from file using hashing. Use any collision resolution technique.
 
 #include<iostream>
 #include<string>
